@@ -22,8 +22,8 @@ function NavBar({ currentPage, handlePageChange}) {
                         >Contact</a>
                     </li>
                     <li>
-                        <a href="./Assets/files/Joshua Robertson Resume.pdf" target="_blank">  
-                            <i class="fa-solid fa-file"></i>
+                        <a href="./Assets/files/Joshua--Robertson-Resume.pdf" target="_blank">  
+                            <i class=""></i>
                             <span>Resume</span>
                         </a>
                     </li>
