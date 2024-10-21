@@ -16,6 +16,8 @@ Portfolio REACTion is my personal portfolio, built with REACT. It is deployed on
 
 -[Live Link](#live-link)
 
+-[Usage](#usage)
+
 -[Contact](#contact)
 
 
@@ -67,6 +69,12 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Live Link
 
 - [Click here to view the website](https://legendary-brioche-64691d.netlify.app/#about)
+
+## Usage
+
+A snapshot of the site in action:
+
+![Usage](./src/assets/images/portfolio-REACTion.gif)
 
 
 ## Contact
