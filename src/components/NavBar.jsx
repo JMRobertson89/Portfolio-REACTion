@@ -22,10 +22,10 @@ function NavBar({ currentPage, handlePageChange}) {
                         >Contact</a>
                     </li>
                     <li>
-                        <a href="#resume"
-                        onClick={() => handlePageChange('Resume')}
-                        className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
-                        >Resume</a>
+                        <a href="./Assets/files/Joshua Robertson Resume.pdf" target="_blank">  
+                            <i class="fa-solid fa-file"></i>
+                            <span>Resume</span>
+                        </a>
                     </li>
                 </ul>
             </nav>
@@ -33,4 +33,4 @@ function NavBar({ currentPage, handlePageChange}) {
     );
 };
 
-export default NavBar
+export default NavBar;

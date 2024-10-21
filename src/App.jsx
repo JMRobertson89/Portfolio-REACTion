@@ -5,3 +5,5 @@ function App() {
     <PortfolioContainer />
     );
 };
+
+export default App;
