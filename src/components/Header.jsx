@@ -5,27 +5,21 @@ function Header(props) {
 
     return (
         <>
-            <section>
-                <header className='left'>
-                    <div>
-                        <a href="/">
-                            <span className="first-name">Joshua</span>
-                            <span className="last-name">Robertson</span>
-                        </a>
-                    </div>
+            <header>
+                
                 <div>
                     <NavBar currentPage={currentPage} handlePageChange={handlePageChange} >
                     </NavBar>
                 </div>
-                </header>
-            </section>
+                
+                <div className='header-intro'>
+                    <h2 className='header-title'>My Portfolio</h2>
+                    <p>Now made with REACT!</p>
+                </div>
 
-            <section className='headerBack' >
-                <h2 className='headerWel'>HELLO!</h2>
-                <p className='PWel'>
-                Hi there.
-                </p>
-            </section>
+
+            </header>
+
         </>
     );
 };

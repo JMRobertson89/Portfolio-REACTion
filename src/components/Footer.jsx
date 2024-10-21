@@ -10,10 +10,6 @@ function Footer() {
                     <i className="fa-brands fa-linkedin"></i>
                     <span>LinkedIn</span>
                 </a>
-                <a href="./Assets/files/Joshua Robertson Resume.pdf" target="_blank">  
-                    <i className="fa-solid fa-file"></i>
-                    <span>Resume</span>
-                </a>
                 <a href="mailto:jrobertson.io">
                     <i className="fa-solid fa-envelope"></i>
                     <span>Email</span>
